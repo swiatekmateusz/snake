@@ -93,10 +93,51 @@ header>div{
 }
 
 .snake-item.snake-body>div{
-  width: 80%;
-  height: 80%;
-  margin: 10%;
+  width: 100%;
+  height: 100%;
+  margin: 0%;
+  
+  background-size: contain;
+}
+
+.snake-item.snake-body.snake-tail>div{
   background: #446e5d;
+}
+
+.snake-item.snake-body.prosto-y>div{
+  background-image: url('/prostoy.png');
+}
+.snake-item.snake-body.prosto-x>div{
+  background-image: url('/prostox.png');
+}
+
+.snake-item.snake-body.gora-prawo>div{
+  background-image: url('/gora-prawo.png');
+}
+
+.snake-item.snake-body.gora-lewo>div{
+  background-image: url('/gora-lewo.png');
+}
+
+.snake-item.snake-body.dol-lewo>div{
+  background-image: url('/dol-lewo.png');
+}
+
+.snake-item.snake-body.dol-prawo>div{
+  background-image: url('/dol-prawo.png');
+}
+
+.snake-item.snake-body.snake-tail-prawo>div{
+  background-image: url('/snake-tail-prawo.png');
+}
+.snake-item.snake-body.snake-tail-lewo>div{
+  background-image: url('/snake-tail-lewo.png');
+}
+.snake-item.snake-body.snake-tail-dol>div{
+  background-image: url('/snake-tail-dol.png');
+}
+.snake-item.snake-body.snake-tail-gora>div{
+  background-image: url('/snake-tail-gora.png');
 }
 
 .snake-item.snake-head{
@@ -107,7 +148,8 @@ header>div{
 }
 
 .snake-item.point{
-  background-color: red;
+  background: url("owoc.png");
+  background-size: contain;
 }
 
 .gora{
