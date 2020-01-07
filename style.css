@@ -105,39 +105,39 @@ header>div{
 }
 
 .snake-item.snake-body.prosto-y>div{
-  background-image: url('/prostoy.png');
+  background-image: url('prostoy.png');
 }
 .snake-item.snake-body.prosto-x>div{
-  background-image: url('/prostox.png');
+  background-image: url('prostox.png');
 }
 
 .snake-item.snake-body.gora-prawo>div{
-  background-image: url('/gora-prawo.png');
+  background-image: url('gora-prawo.png');
 }
 
 .snake-item.snake-body.gora-lewo>div{
-  background-image: url('/gora-lewo.png');
+  background-image: url('gora-lewo.png');
 }
 
 .snake-item.snake-body.dol-lewo>div{
-  background-image: url('/dol-lewo.png');
+  background-image: url('dol-lewo.png');
 }
 
 .snake-item.snake-body.dol-prawo>div{
-  background-image: url('/dol-prawo.png');
+  background-image: url('dol-prawo.png');
 }
 
 .snake-item.snake-body.snake-tail-prawo>div{
-  background-image: url('/snake-tail-prawo.png');
+  background-image: url('snake-tail-prawo.png');
 }
 .snake-item.snake-body.snake-tail-lewo>div{
-  background-image: url('/snake-tail-lewo.png');
+  background-image: url('snake-tail-lewo.png');
 }
 .snake-item.snake-body.snake-tail-dol>div{
-  background-image: url('/snake-tail-dol.png');
+  background-image: url('snake-tail-dol.png');
 }
 .snake-item.snake-body.snake-tail-gora>div{
-  background-image: url('/snake-tail-gora.png');
+  background-image: url('snake-tail-gora.png');
 }
 
 .snake-item.snake-head{
